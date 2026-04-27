@@ -11,3 +11,4 @@ transformers
 torch
 streamlit
 requests
+langchain-groq
